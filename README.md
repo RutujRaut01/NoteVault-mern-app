@@ -71,7 +71,10 @@ This runs both the server and client concurrently.
 
 📸 Screenshots (Optional)
 
-(Add UI screenshots here for visual appeal)
+<img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/079cc5a5-6fa8-4bc8-a877-6412cf3c280c" />
+
+<img width="1171" height="816" alt="image" src="https://github.com/user-attachments/assets/6fb2b1d6-d4da-409d-9d1b-6d57d363da40" />
+
 
 🧩 Future Improvements
 
