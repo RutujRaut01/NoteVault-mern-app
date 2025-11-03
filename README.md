@@ -69,7 +69,7 @@ npm run dev
 
 This runs both the server and client concurrently.
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 
 <img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/079cc5a5-6fa8-4bc8-a877-6412cf3c280c" />
 
