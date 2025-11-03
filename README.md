@@ -33,6 +33,7 @@ GET	/api/notes/:id	Fetch a specific note
 All routes are protected with rate-limiting middleware to ensure fair usage.
 
 🧠 Architecture Overview
+<pre>
 React (Frontend)
    │
    ▼
@@ -42,6 +43,8 @@ Express.js (Server)
 MongoDB (Data Storage)
    │
    └──► Upstash Redis (Rate Limiting Layer)
+</pre>
+
 
 ⚡ Getting Started
 1. Clone the repository
