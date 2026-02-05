@@ -1,11 +1,11 @@
-# 🗒️ NoteVault — MERN Notes App with Redis Rate Limiting
+# NoteVault — MERN Notes App with Redis Rate Limiting
 
 A full-stack **MERN** application for secure and efficient note-taking, featuring intelligent rate limiting powered by **Upstash Redis**.  
 Built for performance, reliability, and a seamless user experience across all devices.
 
 ---
 
-## 🚀 Features
+## Features
 - **Full CRUD Operations** — Create, Read, Update, and Delete notes via RESTful API endpoints.  
 - **Secure Rate Limiting** — Integrated **Upstash Redis** to handle up to **100 requests/min**, preventing API abuse.  
 - **Responsive UI** — Built with **React.js** and **Tailwind CSS**, ensuring a smooth experience across screen sizes.  
@@ -14,7 +14,7 @@ Built for performance, reliability, and a seamless user experience across all de
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | React.js, Tailwind CSS |
@@ -25,7 +25,7 @@ Built for performance, reliability, and a seamless user experience across all de
 
 ---
 
-## ⚙️ API Endpoints
+## API Endpoints
 | Method | Endpoint | Description |
 |:-------|:----------|:-------------|
 | GET | `/api/notes` | Fetch all user notes |
@@ -38,7 +38,7 @@ Built for performance, reliability, and a seamless user experience across all de
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 <pre>
 React (Frontend)
    │
@@ -53,33 +53,33 @@ MongoDB (Data Storage)
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/RutujRaut01/NoteVault-mern-app.git
 cd notevault
 ```
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 ```bash
 npm install
 cd client && npm install
 ```
 
-### 3️⃣ Set up environment variables
+### 3️ Set up environment variables
 ```bash
 PORT=5000
 MONGO_URI=your_mongo_connection_string
 REDIS_URL=your_upstash_redis_url
 ```
-### 4️⃣ Run the app
+### 4️ Run the app
 ```bash
 npm run dev
 ```
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 **Dashboard View**  
 <img width="100%" alt="NoteVault Dashboard" src="https://github.com/user-attachments/assets/079cc5a5-6fa8-4bc8-a877-6412cf3c280c" />
@@ -89,7 +89,7 @@ npm run dev
 
 ---
 
-## 🧩 Future Improvements
+## Future Improvements
 
 - Add JWT authentication for user-level note management  
 - Implement cloud-based note backups  
@@ -100,6 +100,6 @@ npm run dev
 ---
 
 
-## 🧑‍💻 Author
+## Author
 **Rutuj Raut**  
-📧 [rautrutuj123@gmail.com](mailto:rautrutuj123@gmail.com)
+ [rautrutuj123@gmail.com](mailto:rautrutuj123@gmail.com)
